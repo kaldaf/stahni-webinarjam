@@ -1,11 +1,16 @@
 <a href="https://www.paypal.com/paypalme/kaldaf" target="_blank"><img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/paypal.png" alt="Buy Me A Coffee" height="55"></a>
 
 # Stáhni WebinarJam
-
-Aplikace na stahování webinářů.
+Rozšíření pro prohlížeč na stahování webinářů z WebinarJam.
 
 ## Featury
-- Otevření okna s webinářem a následným zkopírováním url
+ - [x] Otevření okna se záznamem
+ - [x] Zkopírování cesty do clipboardu 
+
+## Plánované
+- [ ] Přídat do Edge Add-ons
+- [ ] Přidat do Chrome Web Store
+- [ ] Přídat do Add-ons for Firefox
 
 ## Instalace
 
@@ -28,11 +33,6 @@ Po ukončení webináře se přesměrujete na doménu "event.webinarjam.com/repl
 Následuje otevření okna se záznamem a v clipboardu bude zkopírovaný odkaz.
 
 <img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/example1.png" alt="Příklad stáhnutí webináře." height="300">
-
-## V budoucnosti
-- [ ] Přídat do Edge Add-ons
-- [ ] Přidat do Chrome Web Store
-- [ ] Přídat do Add-ons for Firefox
 
 
 ## Copyright
