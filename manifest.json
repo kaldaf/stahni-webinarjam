@@ -1,0 +1,32 @@
+{
+   "name":"Stáhni Webinář",
+    "manifest_version":2,
+    "author":"filipkalousek.cz",
+    "description":"Stáhni si celý webinář z WebinarJamu!",
+    "default_locale":"cs",
+    "version":"1.0.0",
+    "icons":{
+       "128":"/images/icon-128.png"
+    },
+    "content_scripts":[
+       {
+          "matches":[
+             "https://event.webinarjam.com/*"
+          ],
+          "js":[
+             "main.js"
+          ]
+       }
+    ],
+    "browser_action":{
+      "default_popup":"popup.html",
+      "default_title": "Stáhni webinář"
+   },
+    "permissions":[
+       "https://event.webinarjam.com/*",
+       "webRequest"
+    ],
+    "web_accessible_resources":[
+       "/images/icon-128.png"
+    ]
+ }
