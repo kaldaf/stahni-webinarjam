@@ -27,9 +27,16 @@ Jak přidat rozšíření do Chrome:
 Po ukončení webináře se přesměrujete na doménu "event.webinarjam.com/replay/ID", v tuto chvíli je připravené a možné zpětné přehrání webináře a vy pouze kliknete na ikonu a dáte stáhnout.
 Následuje otevření okna se záznamem a v clipboardu bude zkopírovaný odkaz.
 
+<img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/example1.png" alt="Příklad stáhnutí webináře." height="300">
+
 ## V budoucnosti
 - [ ] Přídat do Edge Add-ons
 - [ ] Přidat do Chrome Web Store
 - [ ] Přídat do Add-ons for Firefox
 
-<img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/example1.png" alt="Příklad stáhnutí webináře." height="300">
+
+## Copyright
+Používáme nějaké third-party scripty pro naše rozšíření. Autoři a licence v listu níže.
+-   [WebExtension browser API Polyfill](https://github.com/mozilla/webextension-polyfill) |
+    Copyright by Mozilla |
+    [MPL-2.0](https://github.com/mozilla/webextension-polyfill/blob/master/LICENSE)
