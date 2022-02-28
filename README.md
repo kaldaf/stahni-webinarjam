@@ -15,6 +15,8 @@ Rozšíření pro prohlížeč na stahování webinářů z WebinarJam.
 
 ## Instalace
 
+[Stáhnout kód](https://github.com/kaldaf/stahni-webinarjam/archive/refs/heads/main.zip)
+
 Rozšíření není nahrané v obchodě a potřebuje prohlížeč založený na Chrome jádře - Chrome, Edge
 
 Jak přidat rozšíření do Microsoft Edge:
