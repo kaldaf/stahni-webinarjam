@@ -6,6 +6,7 @@ Rozšíření pro prohlížeč na stahování webinářů z WebinarJam.
 ## Featury
  - [x] Otevření okna se záznamem
  - [x] Zkopírování cesty do clipboardu 
+ - [x] Popup hláška 
 
 ## Plánované
 - [ ] Přídat do Edge Add-ons
