@@ -9,8 +9,8 @@ Rozšíření pro prohlížeč na stahování webinářů z WebinarJam.
  - [x] Popup hláška 
 
 ## Plánované
-- [ ] Přídat do Edge Add-ons
-- [ ] Přidat do Chrome Web Store
+- [x] Přídat do Edge Add-ons
+- [x] Přidat do Chrome Web Store
 - [ ] Přídat do Add-ons for Firefox
 
 ## Instalace
