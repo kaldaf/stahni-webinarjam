@@ -13,7 +13,7 @@
          "https://event.webinarjam.com/*"
       ],
       "js": [
-         "main.js"
+         "popup.js"
       ]
    }],
    "action": {
@@ -23,8 +23,9 @@
       "default_popup": "popup.html",
       "default_title": "Stáhni webinář"
     },
+    "host_permissions": ["https://event.webinarjam.com/*"],
    "permissions": [
-      "tabs"
+      "scripting"
    ],
    "web_accessible_resources": [
       {
