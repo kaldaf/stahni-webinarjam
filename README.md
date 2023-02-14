@@ -1,4 +1,4 @@
-<a href="https://www.paypal.com/paypalme/kaldaf" target="_blank"><img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/paypal.png" alt="Buy Me A Coffee" height="55"></a>
+<a href="https://revolut.me/kaldaf" target="_blank" title="Support me via Revolut"><img src="https://raw.githubusercontent.com/kaldaf/stahni-webinarjam/main/images/donate.png" alt="Support me via Revolut" height="55"></a>
 
 # Stáhni WebinarJam
 Rozšíření pro prohlížeč na stahování webinářů z WebinarJam.
